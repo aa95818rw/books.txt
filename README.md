@@ -17,4 +17,5 @@
 刪除書籍資料 :點擊跳出提示框"是否確定刪除該書本資料 確定/取消" "確定>>已刪除該書本資料 取消>>關閉刪除視窗"  
 書本內容簡介:書本名稱 簡單介紹該書本的劇情 >>儲存/取消   
 
+## sql檔規劃
 $sql = "INSERT INTO categories (name,house,price,Author,book) VALUES ($name,$house,$price,$Author,$book)"; 
