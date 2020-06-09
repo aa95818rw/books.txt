@@ -20,7 +20,7 @@
 ## sql檔規劃
 $sql = "INSERT INTO categories (name,house,price,Author,book) VALUES ($name,$house,$price,$Author,$book)"; 
 
-/*<a title="回到首頁" class="btn1" href="back.php">回到首頁</a>  
+<a title="回到首頁" class="btn1" href="back.php">回到首頁</a>  
 <a title="訂閱周刊" class="btn1" href="sub.php">訂閱周刊</a>  
 <a title="加入會員" class="btn1" href="joinour.php">加入會員</a>  
 <a title="最新消息" class="btn1" href="news.php">最新消息</a>  
