@@ -21,12 +21,12 @@
 $sql = "INSERT INTO categories (name,house,price,Author,book) VALUES ($name,$house,$price,$Author,$book)"; 
 
 //書籍資料 資料庫
-create table bookinformation (
-number INT,
-bookname varchar(50),
-bookmake varchar(100),
-bookprice INT,
-author varchar(50),
-bookkind varchar(50)
-);
+create table bookinformation (  
+number INT,  
+bookname varchar(50),  
+bookmake varchar(100),  
+bookprice INT,  
+author varchar(50),  
+bookkind varchar(50)  
+);  
 
